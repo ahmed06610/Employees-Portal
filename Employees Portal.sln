@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attendance Service", "Attendance Service\Attendance Service.csproj", "{AD0EA633-CE3E-4D6C-9B42-1F7C3F3664A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeesPortal.Shared", "EmployeesPortal.Shared\EmployeesPortal.Shared.csproj", "{94708798-90B2-4ACF-A2B4-E5404B19499D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vacation Service", "Vacation Service\Vacation Service.csproj", "{520CB05D-DCAB-491C-856C-8109C421E9BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication Service", "Authentication Service\Authentication Service.csproj", "{3DEB6859-BF1D-46E0-9040-AFF1EF326E7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetingService", "MeetingService\MeetingService.csproj", "{A3B95238-DD34-4A5B-86E3-5917F2F9AD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0EA633-CE3E-4D6C-9B42-1F7C3F3664A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0EA633-CE3E-4D6C-9B42-1F7C3F3664A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0EA633-CE3E-4D6C-9B42-1F7C3F3664A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0EA633-CE3E-4D6C-9B42-1F7C3F3664A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94708798-90B2-4ACF-A2B4-E5404B19499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94708798-90B2-4ACF-A2B4-E5404B19499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94708798-90B2-4ACF-A2B4-E5404B19499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94708798-90B2-4ACF-A2B4-E5404B19499D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520CB05D-DCAB-491C-856C-8109C421E9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520CB05D-DCAB-491C-856C-8109C421E9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520CB05D-DCAB-491C-856C-8109C421E9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520CB05D-DCAB-491C-856C-8109C421E9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEB6859-BF1D-46E0-9040-AFF1EF326E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEB6859-BF1D-46E0-9040-AFF1EF326E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEB6859-BF1D-46E0-9040-AFF1EF326E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEB6859-BF1D-46E0-9040-AFF1EF326E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B95238-DD34-4A5B-86E3-5917F2F9AD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B95238-DD34-4A5B-86E3-5917F2F9AD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B95238-DD34-4A5B-86E3-5917F2F9AD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B95238-DD34-4A5B-86E3-5917F2F9AD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9DB036-9468-479B-8A43-5EBC029BC6F5}
+	EndGlobalSection
+EndGlobal
